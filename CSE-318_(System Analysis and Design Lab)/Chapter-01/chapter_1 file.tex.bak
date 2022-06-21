@@ -33,4 +33,33 @@
 
 \end{itemize}
 
+
+\section{Human Requirement}
+Human needs are an important part of our software, through which we can catch the problems of our software, and our primary objective is to satisfy the users with it. We have some problems with this system.
+
+\begin{itemize}
+\item For the user's safety, we are looking at the issue OTP system with Email.
+\item For this security, we will verify the user's email when he first registers in this system.
+\item We will send this OTP in the mail when the user transfers money, and it will do so when he gives it for verification. Yes, this user is the actual owner.
+\item Also, since Crypto-Currency will be bought through our system, so a wallet is required for this.
+\item We will make this wallet with registration so that the user does not have to do it separately.
+\item The wallet will show how much money the user has bought dollars and how many Crypto-Currency dollars he has bought.
+
+\end{itemize}
+
+\newpage
+
+\section{Analyzing System Need}
+We need to fix this from our admin to solve these problems so that users do not have any problems.
+\begin{itemize}
+\item We will create a method in the system through which this issue will go directly to the user's OTP.
+\item We need to create a database here that will keep a record of how many transactions we have done and the process it has.
+\item Buy Crypto-Currency, there will be a wallet, there we will have all the transaction records, and this record will be in the database.
+\item To see all these types of work, we need to make two options in admin: wallet and email verification.
+\item Perhaps we can solve the problem by creating this panel.
+
+\end{itemize}
+
+\section{Implementing \& Evaluating the System}
+Lastly, we will let our users know how our system will work, and we will get to know our system better through some evaluations of whether there are any locks in our system through this evaluation.The users of our system are usually students, teachers, housewives, and working people. The primary purpose is to make it easier for them to transact.
 \end{document}
