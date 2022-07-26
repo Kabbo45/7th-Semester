@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.21)  10 MAY 2022 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.21)  21 JUN 2022 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -118,17 +118,17 @@ LaTeX Font Info:    ... okay on input line 8.
 (chapter_1 file.aux) ) 
 Here is how much of TeX's memory you used:
  1051 strings out of 478582
- 18377 string characters out of 2854159
- 324579 words of memory out of 3000000
+ 18381 string characters out of 2854159
+ 319579 words of memory out of 3000000
  19297 multiletter control sequences out of 15000+600000
  470199 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,391b,120s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,5n,62p,342b,118s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
 appen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
 fb>
-Output written on "chapter_1 file.pdf" (2 pages, 43202 bytes).
+Output written on "chapter_1 file.pdf" (2 pages, 41658 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
